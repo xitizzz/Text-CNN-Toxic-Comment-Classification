@@ -17,4 +17,4 @@ Note: Higher is better. The practical range is from 0.5 to 1, with 0.5 being ran
 |Bidirectional LSTM|0.9686|
 |NB SVM + Bigam Features|0.9762|
 |Text CNN with 2 fully connected layers|0.9745|
-|Optimized simple text CNN|**0.9771**|
+|**Optimized text CNN**|**0.9771**|
